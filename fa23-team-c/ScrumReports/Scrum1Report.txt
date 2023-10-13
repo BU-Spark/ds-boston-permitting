@@ -32,8 +32,16 @@ Have I run into any issues? Do I need help?
 
 John- 
 
+What have I worked on?
+    I added a csv file for the zoning board of appeal tracker
+What will I work on next?
+    I will work on preprocess the data we’ve collected for analysis. I will also further research to better understand the data as well.
+Have I run into any issues? Do I need help?
+    As of now I don’t really need any help.
+
 
 Jasper- 
+
 What have I worked on?
     I’ve identified datasets from the census data that would be relevant to our project
 What will I be working on next?
