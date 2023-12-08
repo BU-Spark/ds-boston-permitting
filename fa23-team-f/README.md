@@ -42,3 +42,5 @@ How to get the code running
   [Zoning Board of Appeal Tracker - Datasets - Analyze Boston](https://data.boston.gov/dataset/zoning-board-of-appeal-tracker)
   [Data Dictionary](https://data.boston.gov/dataset/zoning-board-of-appeal-tracker/resource/e11dcfa5-6f6f-4999-abc3-741f53c6731f)
   [Census data for demographics](https://www.census.gov/programs-surveys/acs/data.html)
+
+Then run the .ipnyb files in the workbooks in the github.
