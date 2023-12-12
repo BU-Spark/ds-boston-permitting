@@ -42,4 +42,5 @@ For comprehensive access to our analysis scripts, data, and detailed findings, v
 [GitHub Repository](https://github.com/BU-Spark/ds-boston-permitting/fa23-team-d)
 
 Youtube video for deliverable 2: [https://youtu.be/LeJDI1vmzSk](https://youtu.be/Q5J00lDXuQ4)
+
 Youtube video for deliverable 3: [https://youtu.be/LeJDI1vmzSk](https://youtu.be/CMo4j0SoYOE)
