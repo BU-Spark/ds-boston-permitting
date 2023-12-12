@@ -32,7 +32,9 @@ David Kim, Lukas Werk, Richard Hao, Efim Sokolov, Jackson Fisk
 - A80.ipynb 
 - census.ipynb - census analysis and visualizations (maps, Lorenz, Gini)
 - income.ipynb - income analysis and visualizations (maps, Lorenz, Gini)
+- census_plot.ipynb - initial census visualizations
 - a80_clean_final : Full Analysis of Article 80 dataset
+- QQplots.ipynb - Q-Q plots for correlation analysis for COVID extension project
 ## Data
 
 ## Repository Link
