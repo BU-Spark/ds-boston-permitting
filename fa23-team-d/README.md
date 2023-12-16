@@ -12,7 +12,7 @@ Our methodology integrated in-depth analysis, statistical modeling, and machine 
 ## Key Analyses
 - **Trend Analysis**: Trends in permit approvals and valuations over time, which also revealed a dip in 2020 linked to the COVID-19 pandemic.
 - **Geographic Distribution**: Analysis of permits by urban areas, indicating a concentration of activity in certain neighborhoods.
-- **Economic and Demographic Disparities**: Utilizing Lorenz curves and Gini coefficients to highlight disparities in development distribution, with lower-income areas experiencing more permit rejections.
+- **Economic and Demographic Disparities**: Utilizing Lorenz curves and Gini coefficients to highlight disparities in development distribution, with lower-income areas experiencing more permit rejections and unequal development distributions by race.
 
 ## Extension 1 - Decision Tree Model Insights
 Detailed insights from the decision tree model, explaining the influence of specific features on the likelihood of permit approval.
@@ -37,51 +37,30 @@ David Euijoon Kim, Lukas Werk, Richard Hao, Efim Sokolov, Jackson Fisk
     - Deliverable 4.pdf
     - Deliverable 5.pdf
   - Data (Only in Google Drive)
-    - Raw_zba.csv
-      - Raw Zoning Board of Appeal Data
-    - Raw_covid.csv
-      - Raw COVID19 Data
-    - Raw_a80.csv
-      - Raw Article 80 Permits Data
-    - Raw_abp.csv
-      - Raw Approved Building Permits Data
-    - Cleaned_zba.csv
-      - Cleaned Zoning Board of Appeal Data
-    - Cleaned_covid.csv
-      - Cleaned COVID19 Data
-    - Cleaned_a80.csv
-      - Cleaned Article 80 Permits Data
-    - Cleaned_abp.csv
-      - Cleaned Approved Building Permits Data
-    - Census2020_BG_Neighborhoods.shp
-      - Census Data 1
-    - 2020_Census_Block_Groups_in_Boston.shp
-      - Census Data 2
-    - Covid_vs_zba.csv
-      - Merged & combined covid dataset with zba
-    - Covid_vs_abp.csv
-      - Merged & combined covid dataset with abp
+    - Raw_zba.csv - Raw Zoning Board of Appeal Data
+    - Raw_covid.csv - Raw COVID19 Data
+    - Raw_a80.csv - Raw Article 80 Permits Data
+    - Raw_abp.csv - Raw Approved Building Permits Data
+    - Cleaned_zba.csv - Cleaned Zoning Board of Appeal Data
+    - Cleaned_covid.csv - Cleaned COVID19 Data
+    - Cleaned_a80.csv - Cleaned Article 80 Permits Data
+    - Cleaned_abp.csv - Cleaned Approved Building Permits Data
+    - Census2020_BG_Neighborhoods.shp - Census Data 1
+    - 2020_Census_Block_Groups_in_Boston.shp - Census Data 2
+    - Covid_vs_zba.csv - Merged & combined covid dataset with zba
+    - Covid_vs_abp.csv - Merged & combined covid dataset with abp
   - Cleaning
-    - Cleaned_zba.ipynb
-      - Python Code for Cleaning Zoning Board of Appeal Data
-    - Cleaned_covid.ipynb
-      - Python Code for Cleaning COVID19 Data
-    - Cleaned_abp.ipynb
-      - Python Code for Cleaning Approved Building Permits Data
-    - Cleaned_a80.ipynb
-      - Python Code for Cleaning Article 80 Permits Data
+    - Cleaned_zba.ipynb - Python Code for Cleaning Zoning Board of Appeal Data
+    - Cleaned_covid.ipynb - Python Code for Cleaning COVID19 Data
+    - Cleaned_abp.ipynb - Python Code for Cleaning Approved Building Permits Data
+    - Cleaned_a80.ipynb - Python Code for Cleaning Article 80 Permits Data
   - Analysis
-    - Visualized_zba.ipynb
-      - Python Code for Visualizing Zoning Board of Appeal Data
-    - Visualized_abp.ipynb
-      - Python Code for Visualizing Approved Building Permits Data
-    - Visualized_a80.ipynb
-      - Python Code for Cleaning Article 80 Permits Data
-    - Extension_1.ipynb
-      - Python Code for Extension Project 1
-    - Extension_2.ipynb
-      - Python Code for Extension Project 2
-
+    - Visualized_zba.ipynb - Python Code for Visualizing Zoning Board of Appeal Data
+    - Visualized_abp.ipynb - Python Code for Visualizing Approved Building Permits Data
+    - Visualized_a80.ipynb - Python Code for Cleaning Article 80 Permits Data
+    - Extension_1.ipynb - Python Code for Extension Project 1
+    - Extension_2.ipynb - Python Code for Extension Project 2
+- Previous files - the file structure used before the final deliverable. 
 ## Repository Link
 For comprehensive access to our analysis scripts, data, and detailed findings, visit our GitHub repository:
 [GitHub Repository](https://github.com/BU-Spark/ds-boston-permitting/fa23-team-d)
