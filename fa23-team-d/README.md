@@ -14,10 +14,10 @@ Our methodology integrated in-depth analysis, statistical modeling, and machine 
 - **Geographic Distribution**: Analysis of permits by urban areas, indicating a concentration of activity in certain neighborhoods.
 - **Economic and Demographic Disparities**: Utilizing Lorenz curves and Gini coefficients to highlight disparities in development distribution, with lower-income areas experiencing more permit rejections.
 
-## Decision Tree Model Insights
+## Extension 1 - Decision Tree Model Insights
 Detailed insights from the decision tree model, explaining the influence of specific features on the likelihood of permit approval.
 
-## COVID-19 Pandemic Analysis
+## Extension 2 - COVID-19 Pandemic Analysis
 Correlation analysis between pandemic data and permitting trends, showing how public health crises can significantly disrupt urban development.
 
 ## Conclusion
