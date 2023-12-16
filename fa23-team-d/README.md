@@ -27,15 +27,60 @@ A synthesis of our findings, emphasizing the need for policy considerations to a
 David Kim, Lukas Werk, Richard Hao, Efim Sokolov, Jackson Fisk
 
 ## Files
-- a80.ipynb - Article 80 analysis
-- abp.ipynb - Approved analysis
-- A80.ipynb 
-- census.ipynb - census analysis and visualizations (maps, Lorenz, Gini)
-- income.ipynb - income analysis and visualizations (maps, Lorenz, Gini)
-- census_plot.ipynb - initial census visualizations
-- a80_clean_final : Full Analysis of Article 80 dataset
-- QQplots.ipynb - Q-Q plots for correlation analysis for COVID extension project
-## Data
+- Inside Final Organized Files:
+  - Deliverable
+    - Deliverable 0.pdf
+    - Deliverable 1 Presentation.pdf
+    - Deliverable 1.pdf
+    - Deliverable 2.pdf
+    - Deliverable 3.pdf
+    - Deliverable 4.pdf
+    - Deliverable 5.pdf
+  - Data (Only in Google Drive)
+    - Raw_zba.csv
+      - Raw Zoning Board of Appeal Data
+    - Raw_covid.csv
+      - Raw COVID19 Data
+    - Raw_a80.csv
+      - Raw Article 80 Permits Data
+    - Raw_abp.csv
+      - Raw Approved Building Permits Data
+    - Cleaned_zba.csv
+      - Cleaned Zoning Board of Appeal Data
+    - Cleaned_covid.csv
+      - Cleaned COVID19 Data
+    - Cleaned_a80.csv
+      - Cleaned Article 80 Permits Data
+    - Cleaned_abp.csv
+      - Cleaned Approved Building Permits Data
+    - Census2020_BG_Neighborhoods.shp
+      - Census Data 1
+    - 2020_Census_Block_Groups_in_Boston.shp
+      - Census Data 2
+    - Covid_vs_zba.csv
+      - Merged & combined covid dataset with zba
+    - Covid_vs_abp.csv
+      - Merged & combined covid dataset with abp
+  - Cleaning
+    - Cleaned_zba.ipynb
+      - Python Code for Cleaning Zoning Board of Appeal Data
+    - Cleaned_covid.ipynb
+      - Python Code for Cleaning COVID19 Data
+    - Cleaned_abp.ipynb
+      - Python Code for Cleaning Approved Building Permits Data
+    - Cleaned_a80.ipynb
+      - Python Code for Cleaning Article 80 Permits Data
+- Analysis
+    - Visualized_zba.ipynb
+      - Python Code for Visualizing Zoning Board of Appeal Data
+    - Visualized_abp.ipynb
+      - Python Code for Visualizing Approved Building Permits Data
+    - Visualized_a80.ipynb
+      - Python Code for Cleaning Article 80 Permits Data
+    - Extension_1.ipynb
+      - Python Code for Extension Project 1
+    - Extension_2.ipynb
+      - Python Code for Extension Project 2
 
 ## Repository Link
 For comprehensive access to our analysis scripts, data, and detailed findings, visit our GitHub repository:
