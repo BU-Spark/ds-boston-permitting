@@ -70,7 +70,7 @@ David Kim, Lukas Werk, Richard Hao, Efim Sokolov, Jackson Fisk
       - Python Code for Cleaning Approved Building Permits Data
     - Cleaned_a80.ipynb
       - Python Code for Cleaning Article 80 Permits Data
-- Analysis
+  - Analysis
     - Visualized_zba.ipynb
       - Python Code for Visualizing Zoning Board of Appeal Data
     - Visualized_abp.ipynb
