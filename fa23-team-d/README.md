@@ -24,7 +24,7 @@ Correlation analysis between pandemic data and permitting trends, showing how pu
 A synthesis of our findings, emphasizing the need for policy considerations to address the observed disparities and enhance urban planning.
 
 ## Team Members
-David Kim, Lukas Werk, Richard Hao, Efim Sokolov, Jackson Fisk
+David Euijoon Kim, Lukas Werk, Richard Hao, Efim Sokolov, Jackson Fisk
 
 ## Files
 - Inside Final Organized Files:
