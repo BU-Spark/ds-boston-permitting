@@ -1,5 +1,8 @@
 
-
+# Team F git ignore
+fa23-team-f/Census2020_BG_Neighborhoods/
+fa23-team-f/Census2020_BlockGroups/
+fa23-team-f/data/
 
 # Jetbrains Products
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -168,3 +171,4 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+fa23-team-f/workbooks/census_map.html
