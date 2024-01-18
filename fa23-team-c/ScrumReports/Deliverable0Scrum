@@ -1,0 +1,28 @@
+What is the project focus/overall goal?
+
+The overall goal of this project is to provide the city of Boston with a better understanding of the data around approvals and denials for permits to build or conduct renovations in order to ensure that residents and businesses are receiving equitable treatment, as well as analyzing its effects on housing cost.
+
+
+Why is this project important?
+
+This project is important because real estate and development are key to economic development and tax base in Boston. In fact, nearly ⅔ of the City’s operational revenue comes from property tax. This issue also targets affordable housing in Boston as the supply of housing is an important factor in housing prices and approvals and denials for permits play a huge role in the supply of housing. Unfortunately, obtaining permits and renovating according to the City’s process can be challenging for residents and businesses alike with the many stages required to navigate through it. Hence, this project aims to help understand the data around approvals and denials so that residents and commercial entities can receive equitable treatment. 
+
+
+What type of data will you collect or be analyzing? 
+
+The data that will be collected is stored in CSV files, containing information about building permits, construction projects, and zoning appeals in a table format. Each project, permit, or appeal has a table id, unique identifier assigned, along with key information such as the address and description about the project, permit, or appeal.
+
+
+What are potential limitations of the project?
+
+Some potential limitations include:
+
+Data availability and accuracy regarding permits, appeals, etc.
+Navigating the complexity of the permitting process and understanding the accuracy modeling and analyzing this process might be challenging.
+We have multiple data sets, integrating them together could prove to be a challenge.
+Our lack of expertise on this topic, not having a background in permitting, could prove to be a challenge. We need to engage with our go to experts to make sure we are on the right path to complete the project.
+
+
+What are your next steps? Divide tasks amongst the team
+
+Go through background readings and look over base project data to understand the permitting process and become familiar with the data we’re analyzing. We’ll also look at the Base Project Questions to get a better understanding of the questions we are answering. Each of us will do this to make sure we have a good base understanding of what we have to do moving forward.  

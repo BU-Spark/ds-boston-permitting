@@ -1,0 +1,36 @@
+DS-BOSTON-PERMITTING-D
+SCRUM REPORT 0
+
+
+1. What is the project focus/overall goal?
+- The project aims to analyze the City of Boston permitting and housing data to gain a better understanding of the equitability of the appeal process and unearth possible underlying systemic inequalities.
+- Analyzing the characteristics of approved and denied building permits in Boston.
+    - Especially the race/ethnicity, income level, and geographic profiles.
+
+
+2. Why is this project important?
+- The housing market is perhaps one of the most important economic drivers of the City of Boston while simultaneously having immense social and political ramifications. Understanding the underlying effects and consequences of this system is not only important for the development and success of the City as a whole but, most importantly, a way to attack systemic socio-economic issues at one of their principal roots.
+
+
+3. What type of data will you collect or be analyzing?
+- We will use multiple different types of data, including databases from the Census and Analyze Boston. We will examine databases regarding approved building permits, zoning appeals, and Article 80 development projects.  
+    - Approved Building Permits - Analyze Boston
+        - Information on the building permits that were approved, including location, date, fees, valuation, work type, etc.
+    - Article80 Development Projects - Analyze Boston
+        - Data on the development projects subject to Article 80 review process, including location, date, status, size, description, etc.
+    - Zoning Board of Appeal Tracker - Analyze Boston
+        - Detailed information on refused permits that are undergoing the appeal process
+    - Census Data for Demographics - United States Census Bureau
+        - Demographic data for the locations analyzed in the project
+
+
+4. What are potential limitations of the project?
+- Missing data or information on important permits or projects
+- Lack of expertise in real estate and the Boston permitting process
+- Analyzing the descriptions of each permit or project within the data is excessively time-consuming
+
+
+5. What are your next steps? Divide tasks amongst the team
+- Divide the datasets amongst the team to clean and conduct basic analysis, calculations, and visualizations.
+- Share the insights between all team members to combine and organize the final analysis.
+- Run the appropriate machine learning algorithms on the data to analyze the factors that lead the permits/projects to approval or refusal.

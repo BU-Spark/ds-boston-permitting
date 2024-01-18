@@ -1,0 +1,50 @@
+Dima- 
+
+What have I worked on?
+    Created a notebook file in the code folder, loaded all our current data into it.
+What will I be working on next?
+    Begin preprocessing data, figure out the best way to format our files for clarity.
+Have I run into any issues? Do I need help?
+    No issues at this stage. 
+Team Lead: Have I talked to the client recently? When are we meeting with them next?
+    Checked in with TA and TPM, will talk again during the next lab session.
+
+
+Aryan- 
+
+What have I worked on?
+    Downloaded a dataset and started to clean the data
+What will I be working on next?
+    I will finish cleaning the data
+Have I run into any issues? Do I need help?
+    no
+
+
+Brianna- 
+
+What have I worked on?
+    I added csv files containing data of approved building permits.
+What will I be working on next?
+    Collect important features to focus on, and preprocess data for preliminary analysis.
+Have I run into any issues? Do I need help?
+    Had slight issues pushing the csv file to git since the file was too large, just split into three separate files for now.
+
+
+John- 
+
+What have I worked on?
+    I added a csv file for the zoning board of appeal tracker
+What will I work on next?
+    I will work on preprocess the data we’ve collected for analysis. I will also further research to better understand the data as well.
+Have I run into any issues? Do I need help?
+    As of now I don’t really need any help.
+
+
+Jasper- 
+
+What have I worked on?
+    I’ve identified datasets from the census data that would be relevant to our project
+What will I be working on next?
+    I will be working on preprocessing the data for analysis and collect the datasets that have been identified as relevant to our project.
+Have I run into any issues? Do I need help?
+    No I have not run into any issues as of now.
